@@ -1,4 +1,4 @@
-package Executors;
+package Executor;
 
 public class PrintNumber implements Runnable{
     int noToPrint;
